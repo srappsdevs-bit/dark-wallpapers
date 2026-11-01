@@ -1,6 +1,881 @@
 {
-  "total": 4635,
+  "total": 4760,
   "wallpapers": [
+    {
+      "name": "0001_photo-1785920268470-38d3bc1b0403.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0001_photo-1785920268470-38d3bc1b0403.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0001_photo-1785920268470-38d3bc1b0403.jpg"
+    },
+    {
+      "name": "0002_photo-1758812098363-c21a6d862fa8.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0002_photo-1758812098363-c21a6d862fa8.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0002_photo-1758812098363-c21a6d862fa8.jpg"
+    },
+    {
+      "name": "0003_photo-1770321113202-8dfe85170665.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0003_photo-1770321113202-8dfe85170665.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0003_photo-1770321113202-8dfe85170665.jpg"
+    },
+    {
+      "name": "0004_photo-1758391407952-63fa3336b8fc.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0004_photo-1758391407952-63fa3336b8fc.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0004_photo-1758391407952-63fa3336b8fc.jpg"
+    },
+    {
+      "name": "0005_photo-1782328497904-8beec6bd7962.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0005_photo-1782328497904-8beec6bd7962.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0005_photo-1782328497904-8beec6bd7962.jpg"
+    },
+    {
+      "name": "0006_photo-1725113160764-bac74b03f756.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0006_photo-1725113160764-bac74b03f756.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0006_photo-1725113160764-bac74b03f756.jpg"
+    },
+    {
+      "name": "0007_photo-1725113160828-c0dfd323d769.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0007_photo-1725113160828-c0dfd323d769.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0007_photo-1725113160828-c0dfd323d769.jpg"
+    },
+    {
+      "name": "0008_photo-1770838467452-d76f04989101.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0008_photo-1770838467452-d76f04989101.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0008_photo-1770838467452-d76f04989101.jpg"
+    },
+    {
+      "name": "0009_photo-1770838468534-861c0ac9bc79.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0009_photo-1770838468534-861c0ac9bc79.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0009_photo-1770838468534-861c0ac9bc79.jpg"
+    },
+    {
+      "name": "0010_photo-1777033481255-fa0b8e48c52e.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0010_photo-1777033481255-fa0b8e48c52e.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0010_photo-1777033481255-fa0b8e48c52e.jpg"
+    },
+    {
+      "name": "0011_photo-1633884314667-744b2e8eb217.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0011_photo-1633884314667-744b2e8eb217.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0011_photo-1633884314667-744b2e8eb217.jpg"
+    },
+    {
+      "name": "0012_photo-1766431612707-8bad82e42422.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0012_photo-1766431612707-8bad82e42422.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0012_photo-1766431612707-8bad82e42422.jpg"
+    },
+    {
+      "name": "0013_photo-1620120966883-d977b57a96ec.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0013_photo-1620120966883-d977b57a96ec.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0013_photo-1620120966883-d977b57a96ec.jpg"
+    },
+    {
+      "name": "0014_photo-1730909352965-85fd88a01d80.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0014_photo-1730909352965-85fd88a01d80.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0014_photo-1730909352965-85fd88a01d80.jpg"
+    },
+    {
+      "name": "0015_photo-1708457753320-02e52a276a80.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0015_photo-1708457753320-02e52a276a80.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0015_photo-1708457753320-02e52a276a80.jpg"
+    },
+    {
+      "name": "0016_photo-1666120565124-7e763880444a.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0016_photo-1666120565124-7e763880444a.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0016_photo-1666120565124-7e763880444a.jpg"
+    },
+    {
+      "name": "0017_photo-1586809755167-e4c599fbd335.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0017_photo-1586809755167-e4c599fbd335.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0017_photo-1586809755167-e4c599fbd335.jpg"
+    },
+    {
+      "name": "0018_photo-1771792997117-c833b0bc174b.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0018_photo-1771792997117-c833b0bc174b.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0018_photo-1771792997117-c833b0bc174b.jpg"
+    },
+    {
+      "name": "0019_photo-1761063198867-597f6c6cd1b5.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0019_photo-1761063198867-597f6c6cd1b5.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0019_photo-1761063198867-597f6c6cd1b5.jpg"
+    },
+    {
+      "name": "0020_photo-1693760946158-1486b5456ed3.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0020_photo-1693760946158-1486b5456ed3.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0020_photo-1693760946158-1486b5456ed3.jpg"
+    },
+    {
+      "name": "0021_photo-1723551642244-9bbec50da0ad.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0021_photo-1723551642244-9bbec50da0ad.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0021_photo-1723551642244-9bbec50da0ad.jpg"
+    },
+    {
+      "name": "0022_photo-1612971446746-b79cc11824f5.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0022_photo-1612971446746-b79cc11824f5.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0022_photo-1612971446746-b79cc11824f5.jpg"
+    },
+    {
+      "name": "0023_photo-1774997391501-7eb0ea951327.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0023_photo-1774997391501-7eb0ea951327.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0023_photo-1774997391501-7eb0ea951327.jpg"
+    },
+    {
+      "name": "0024_photo-1774994610908-52de289a200f.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0024_photo-1774994610908-52de289a200f.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0024_photo-1774994610908-52de289a200f.jpg"
+    },
+    {
+      "name": "0025_photo-1697043676532-1b5655e05324.jpg",
+      "category": "nothing-red",
+      "orientation": "horizontal",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/horizontal/0025_photo-1697043676532-1b5655e05324.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/horizontal/0025_photo-1697043676532-1b5655e05324.jpg"
+    },
+    {
+      "name": "0001_photo-1759178461812-a9459e23cc7a.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0001_photo-1759178461812-a9459e23cc7a.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0001_photo-1759178461812-a9459e23cc7a.jpg"
+    },
+    {
+      "name": "0002_photo-1636566891061-27e79f3e0be6.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0002_photo-1636566891061-27e79f3e0be6.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0002_photo-1636566891061-27e79f3e0be6.jpg"
+    },
+    {
+      "name": "0003_photo-1663544093530-e4fc457bdebf.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0003_photo-1663544093530-e4fc457bdebf.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0003_photo-1663544093530-e4fc457bdebf.jpg"
+    },
+    {
+      "name": "0004_photo-1759178461062-820d0e86cae9.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0004_photo-1759178461062-820d0e86cae9.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0004_photo-1759178461062-820d0e86cae9.jpg"
+    },
+    {
+      "name": "0005_photo-1754663186358-840d3b275200.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0005_photo-1754663186358-840d3b275200.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0005_photo-1754663186358-840d3b275200.jpg"
+    },
+    {
+      "name": "0006_photo-1693049318107-a4aa59219d10.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0006_photo-1693049318107-a4aa59219d10.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0006_photo-1693049318107-a4aa59219d10.jpg"
+    },
+    {
+      "name": "0007_photo-1649924895722-4ed6d24fb3cf.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0007_photo-1649924895722-4ed6d24fb3cf.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0007_photo-1649924895722-4ed6d24fb3cf.jpg"
+    },
+    {
+      "name": "0008_photo-1658458488161-f02fb2d093d6.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0008_photo-1658458488161-f02fb2d093d6.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0008_photo-1658458488161-f02fb2d093d6.jpg"
+    },
+    {
+      "name": "0009_photo-1672068837229-c5c54f71cc83.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0009_photo-1672068837229-c5c54f71cc83.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0009_photo-1672068837229-c5c54f71cc83.jpg"
+    },
+    {
+      "name": "0010_photo-1654545788631-cf8131fbaef2.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0010_photo-1654545788631-cf8131fbaef2.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0010_photo-1654545788631-cf8131fbaef2.jpg"
+    },
+    {
+      "name": "0011_photo-1777405621738-17bb0e4f0294.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0011_photo-1777405621738-17bb0e4f0294.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0011_photo-1777405621738-17bb0e4f0294.jpg"
+    },
+    {
+      "name": "0012_photo-1606516013695-d3a72a051d30.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0012_photo-1606516013695-d3a72a051d30.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0012_photo-1606516013695-d3a72a051d30.jpg"
+    },
+    {
+      "name": "0013_photo-1629729802306-2c196af7eef5.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0013_photo-1629729802306-2c196af7eef5.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0013_photo-1629729802306-2c196af7eef5.jpg"
+    },
+    {
+      "name": "0014_photo-1767472718806-c1cfa9f32f23.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0014_photo-1767472718806-c1cfa9f32f23.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0014_photo-1767472718806-c1cfa9f32f23.jpg"
+    },
+    {
+      "name": "0015_photo-1627704266280-af0c33c59e72.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0015_photo-1627704266280-af0c33c59e72.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0015_photo-1627704266280-af0c33c59e72.jpg"
+    },
+    {
+      "name": "0016_photo-1712829530356-616a398db245.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0016_photo-1712829530356-616a398db245.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0016_photo-1712829530356-616a398db245.jpg"
+    },
+    {
+      "name": "0017_photo-1601326167532-d457cd8186cc.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0017_photo-1601326167532-d457cd8186cc.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0017_photo-1601326167532-d457cd8186cc.jpg"
+    },
+    {
+      "name": "0018_photo-1736196073350-8b17a6ae69a3.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0018_photo-1736196073350-8b17a6ae69a3.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0018_photo-1736196073350-8b17a6ae69a3.jpg"
+    },
+    {
+      "name": "0019_photo-1774384802941-09a41062f8b9.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0019_photo-1774384802941-09a41062f8b9.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0019_photo-1774384802941-09a41062f8b9.jpg"
+    },
+    {
+      "name": "0020_photo-1774385439812-d2315288afea.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0020_photo-1774385439812-d2315288afea.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0020_photo-1774385439812-d2315288afea.jpg"
+    },
+    {
+      "name": "0021_photo-1621257428217-852546ff30f5.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0021_photo-1621257428217-852546ff30f5.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0021_photo-1621257428217-852546ff30f5.jpg"
+    },
+    {
+      "name": "0022_photo-1712829515265-d7b3a93df9ae.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0022_photo-1712829515265-d7b3a93df9ae.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0022_photo-1712829515265-d7b3a93df9ae.jpg"
+    },
+    {
+      "name": "0023_photo-1773270387206-481f73b2b85e.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0023_photo-1773270387206-481f73b2b85e.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0023_photo-1773270387206-481f73b2b85e.jpg"
+    },
+    {
+      "name": "0024_photo-1531391232906-22d20ecb825d.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0024_photo-1531391232906-22d20ecb825d.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0024_photo-1531391232906-22d20ecb825d.jpg"
+    },
+    {
+      "name": "0025_photo-1741879080190-bad94442162d.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0025_photo-1741879080190-bad94442162d.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0025_photo-1741879080190-bad94442162d.jpg"
+    },
+    {
+      "name": "0026_photo-1772048197862-635f9903e70c.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0026_photo-1772048197862-635f9903e70c.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0026_photo-1772048197862-635f9903e70c.jpg"
+    },
+    {
+      "name": "0027_photo-1621423028651-b32c4e9aaa57.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0027_photo-1621423028651-b32c4e9aaa57.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0027_photo-1621423028651-b32c4e9aaa57.jpg"
+    },
+    {
+      "name": "0028_photo-1669654938006-47f114e733f6.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0028_photo-1669654938006-47f114e733f6.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0028_photo-1669654938006-47f114e733f6.jpg"
+    },
+    {
+      "name": "0029_photo-1774201620977-3d786274adb4.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0029_photo-1774201620977-3d786274adb4.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0029_photo-1774201620977-3d786274adb4.jpg"
+    },
+    {
+      "name": "0030_photo-1714279239071-bddde20e797b.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0030_photo-1714279239071-bddde20e797b.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0030_photo-1714279239071-bddde20e797b.jpg"
+    },
+    {
+      "name": "0031_photo-1712829547969-eca56a95d82f.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0031_photo-1712829547969-eca56a95d82f.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0031_photo-1712829547969-eca56a95d82f.jpg"
+    },
+    {
+      "name": "0032_photo-1748457239465-ccbea31e272a.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0032_photo-1748457239465-ccbea31e272a.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0032_photo-1748457239465-ccbea31e272a.jpg"
+    },
+    {
+      "name": "0033_photo-1760717135429-519418a7e6da.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0033_photo-1760717135429-519418a7e6da.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0033_photo-1760717135429-519418a7e6da.jpg"
+    },
+    {
+      "name": "0034_photo-1709843109639-7d613de1fbca.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0034_photo-1709843109639-7d613de1fbca.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0034_photo-1709843109639-7d613de1fbca.jpg"
+    },
+    {
+      "name": "0035_photo-1628418064700-f65f874f0fb8.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0035_photo-1628418064700-f65f874f0fb8.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0035_photo-1628418064700-f65f874f0fb8.jpg"
+    },
+    {
+      "name": "0036_photo-1655015951925-3b69c01a2709.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0036_photo-1655015951925-3b69c01a2709.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0036_photo-1655015951925-3b69c01a2709.jpg"
+    },
+    {
+      "name": "0037_photo-1761160678296-f97ecb9013a3.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0037_photo-1761160678296-f97ecb9013a3.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0037_photo-1761160678296-f97ecb9013a3.jpg"
+    },
+    {
+      "name": "0038_photo-1759178459426-1178fd1128e3.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0038_photo-1759178459426-1178fd1128e3.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0038_photo-1759178459426-1178fd1128e3.jpg"
+    },
+    {
+      "name": "0039_photo-1584303450431-5a0312051758.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0039_photo-1584303450431-5a0312051758.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0039_photo-1584303450431-5a0312051758.jpg"
+    },
+    {
+      "name": "0040_photo-1708533548085-4d869ab08486.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0040_photo-1708533548085-4d869ab08486.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0040_photo-1708533548085-4d869ab08486.jpg"
+    },
+    {
+      "name": "0041_photo-1678186878098-18d6c563c0ce.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0041_photo-1678186878098-18d6c563c0ce.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0041_photo-1678186878098-18d6c563c0ce.jpg"
+    },
+    {
+      "name": "0042_photo-1712829508431-57b1243b2b70.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0042_photo-1712829508431-57b1243b2b70.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0042_photo-1712829508431-57b1243b2b70.jpg"
+    },
+    {
+      "name": "0043_photo-1646332807627-b6587ef5a665.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0043_photo-1646332807627-b6587ef5a665.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0043_photo-1646332807627-b6587ef5a665.jpg"
+    },
+    {
+      "name": "0044_photo-1615866411523-d162740680cf.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0044_photo-1615866411523-d162740680cf.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0044_photo-1615866411523-d162740680cf.jpg"
+    },
+    {
+      "name": "0045_photo-1601925165391-e5d6552a4e20.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0045_photo-1601925165391-e5d6552a4e20.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0045_photo-1601925165391-e5d6552a4e20.jpg"
+    },
+    {
+      "name": "0046_photo-1621791556472-4d279c54705d.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0046_photo-1621791556472-4d279c54705d.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0046_photo-1621791556472-4d279c54705d.jpg"
+    },
+    {
+      "name": "0047_photo-1763068795933-95ecdbcd0336.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0047_photo-1763068795933-95ecdbcd0336.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0047_photo-1763068795933-95ecdbcd0336.jpg"
+    },
+    {
+      "name": "0048_photo-1712829523348-57d0e532b5f3.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0048_photo-1712829523348-57d0e532b5f3.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0048_photo-1712829523348-57d0e532b5f3.jpg"
+    },
+    {
+      "name": "0049_photo-1757509022941-3910376728c0.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0049_photo-1757509022941-3910376728c0.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0049_photo-1757509022941-3910376728c0.jpg"
+    },
+    {
+      "name": "0050_photo-1769684328001-dc78599f1518.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0050_photo-1769684328001-dc78599f1518.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0050_photo-1769684328001-dc78599f1518.jpg"
+    },
+    {
+      "name": "0051_photo-1622182295588-ae59b9427560.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0051_photo-1622182295588-ae59b9427560.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0051_photo-1622182295588-ae59b9427560.jpg"
+    },
+    {
+      "name": "0052_photo-1718202248233-938f2bced7e1.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0052_photo-1718202248233-938f2bced7e1.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0052_photo-1718202248233-938f2bced7e1.jpg"
+    },
+    {
+      "name": "0053_photo-1759266162076-455d59f9d3d0.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0053_photo-1759266162076-455d59f9d3d0.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0053_photo-1759266162076-455d59f9d3d0.jpg"
+    },
+    {
+      "name": "0054_photo-1783431412529-41eaad427407.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0054_photo-1783431412529-41eaad427407.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0054_photo-1783431412529-41eaad427407.jpg"
+    },
+    {
+      "name": "0055_photo-1641398608965-e146a4328e4d.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0055_photo-1641398608965-e146a4328e4d.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0055_photo-1641398608965-e146a4328e4d.jpg"
+    },
+    {
+      "name": "0056_photo-1712829487969-9b581b2ee351.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0056_photo-1712829487969-9b581b2ee351.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0056_photo-1712829487969-9b581b2ee351.jpg"
+    },
+    {
+      "name": "0057_photo-1646174782873-bb405b4bab06.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0057_photo-1646174782873-bb405b4bab06.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0057_photo-1646174782873-bb405b4bab06.jpg"
+    },
+    {
+      "name": "0058_photo-1761501701053-60f76ab372ee.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0058_photo-1761501701053-60f76ab372ee.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0058_photo-1761501701053-60f76ab372ee.jpg"
+    },
+    {
+      "name": "0059_photo-1679475117356-81776f9e658f.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0059_photo-1679475117356-81776f9e658f.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0059_photo-1679475117356-81776f9e658f.jpg"
+    },
+    {
+      "name": "0060_photo-1567360425618-1594206637d2.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0060_photo-1567360425618-1594206637d2.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0060_photo-1567360425618-1594206637d2.jpg"
+    },
+    {
+      "name": "0061_photo-1764258906750-7bcdd5d716db.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0061_photo-1764258906750-7bcdd5d716db.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0061_photo-1764258906750-7bcdd5d716db.jpg"
+    },
+    {
+      "name": "0062_photo-1680650678417-0f056db6927a.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0062_photo-1680650678417-0f056db6927a.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0062_photo-1680650678417-0f056db6927a.jpg"
+    },
+    {
+      "name": "0063_photo-1627282058750-2b9ce74b6248.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0063_photo-1627282058750-2b9ce74b6248.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0063_photo-1627282058750-2b9ce74b6248.jpg"
+    },
+    {
+      "name": "0064_photo-1764264136138-50a17c27d700.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0064_photo-1764264136138-50a17c27d700.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0064_photo-1764264136138-50a17c27d700.jpg"
+    },
+    {
+      "name": "0065_photo-1621075018879-3526cfe7676e.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0065_photo-1621075018879-3526cfe7676e.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0065_photo-1621075018879-3526cfe7676e.jpg"
+    },
+    {
+      "name": "0066_photo-1666549467874-e7f4ed57f4a4.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0066_photo-1666549467874-e7f4ed57f4a4.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0066_photo-1666549467874-e7f4ed57f4a4.jpg"
+    },
+    {
+      "name": "0067_photo-1604264024773-ca2c2f8ceb82.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0067_photo-1604264024773-ca2c2f8ceb82.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0067_photo-1604264024773-ca2c2f8ceb82.jpg"
+    },
+    {
+      "name": "0068_photo-1758315716325-d2c7c0eb9659.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0068_photo-1758315716325-d2c7c0eb9659.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0068_photo-1758315716325-d2c7c0eb9659.jpg"
+    },
+    {
+      "name": "0069_photo-1754663186489-64d308900779.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0069_photo-1754663186489-64d308900779.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0069_photo-1754663186489-64d308900779.jpg"
+    },
+    {
+      "name": "0070_photo-1670387242699-6df82e02a2b0.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0070_photo-1670387242699-6df82e02a2b0.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0070_photo-1670387242699-6df82e02a2b0.jpg"
+    },
+    {
+      "name": "0071_photo-1636570952054-f36b2d66d30f.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0071_photo-1636570952054-f36b2d66d30f.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0071_photo-1636570952054-f36b2d66d30f.jpg"
+    },
+    {
+      "name": "0072_photo-1633280605337-5766f7eb3319.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0072_photo-1633280605337-5766f7eb3319.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0072_photo-1633280605337-5766f7eb3319.jpg"
+    },
+    {
+      "name": "0073_photo-1761501701604-1a433d46697b.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0073_photo-1761501701604-1a433d46697b.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0073_photo-1761501701604-1a433d46697b.jpg"
+    },
+    {
+      "name": "0074_photo-1712829536938-7561f2af195f.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0074_photo-1712829536938-7561f2af195f.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0074_photo-1712829536938-7561f2af195f.jpg"
+    },
+    {
+      "name": "0075_photo-1667212610115-fd21b34f1092.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0075_photo-1667212610115-fd21b34f1092.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0075_photo-1667212610115-fd21b34f1092.jpg"
+    },
+    {
+      "name": "0076_photo-1703100829591-7c7ea3a01f94.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0076_photo-1703100829591-7c7ea3a01f94.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0076_photo-1703100829591-7c7ea3a01f94.jpg"
+    },
+    {
+      "name": "0077_photo-1687679043812-dd628c9c3235.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0077_photo-1687679043812-dd628c9c3235.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0077_photo-1687679043812-dd628c9c3235.jpg"
+    },
+    {
+      "name": "0078_photo-1689916342024-dc92941a4f66.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0078_photo-1689916342024-dc92941a4f66.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0078_photo-1689916342024-dc92941a4f66.jpg"
+    },
+    {
+      "name": "0079_photo-1653745289778-bacf6d8a96e5.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0079_photo-1653745289778-bacf6d8a96e5.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0079_photo-1653745289778-bacf6d8a96e5.jpg"
+    },
+    {
+      "name": "0080_photo-1641869089000-bbfdfff05afc.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0080_photo-1641869089000-bbfdfff05afc.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0080_photo-1641869089000-bbfdfff05afc.jpg"
+    },
+    {
+      "name": "0081_photo-1715523089304-9c077fb1a427.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0081_photo-1715523089304-9c077fb1a427.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0081_photo-1715523089304-9c077fb1a427.jpg"
+    },
+    {
+      "name": "0082_photo-1783431412500-806f3aa9bcea.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0082_photo-1783431412500-806f3aa9bcea.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0082_photo-1783431412500-806f3aa9bcea.jpg"
+    },
+    {
+      "name": "0083_photo-1680504961011-fc33b65c67cb.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0083_photo-1680504961011-fc33b65c67cb.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0083_photo-1680504961011-fc33b65c67cb.jpg"
+    },
+    {
+      "name": "0084_photo-1755963216439-bd77f9690868.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0084_photo-1755963216439-bd77f9690868.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0084_photo-1755963216439-bd77f9690868.jpg"
+    },
+    {
+      "name": "0085_photo-1709784046420-5d368134ee98.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0085_photo-1709784046420-5d368134ee98.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0085_photo-1709784046420-5d368134ee98.jpg"
+    },
+    {
+      "name": "0086_photo-1621423028668-d5f9555ebea3.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0086_photo-1621423028668-d5f9555ebea3.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0086_photo-1621423028668-d5f9555ebea3.jpg"
+    },
+    {
+      "name": "0087_photo-1695968122588-3875a8a31000.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0087_photo-1695968122588-3875a8a31000.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0087_photo-1695968122588-3875a8a31000.jpg"
+    },
+    {
+      "name": "0088_photo-1693493907712-39fd4c404139.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0088_photo-1693493907712-39fd4c404139.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0088_photo-1693493907712-39fd4c404139.jpg"
+    },
+    {
+      "name": "0089_photo-1735099251659-240d455043f2.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0089_photo-1735099251659-240d455043f2.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0089_photo-1735099251659-240d455043f2.jpg"
+    },
+    {
+      "name": "0090_photo-1628965880619-bd47243535ae.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0090_photo-1628965880619-bd47243535ae.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0090_photo-1628965880619-bd47243535ae.jpg"
+    },
+    {
+      "name": "0091_photo-1768522488376-311e0e634bd6.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0091_photo-1768522488376-311e0e634bd6.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0091_photo-1768522488376-311e0e634bd6.jpg"
+    },
+    {
+      "name": "0092_photo-1605536560635-2dacfbe9ae9b.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0092_photo-1605536560635-2dacfbe9ae9b.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0092_photo-1605536560635-2dacfbe9ae9b.jpg"
+    },
+    {
+      "name": "0093_photo-1604580119348-86f5268f2b44.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0093_photo-1604580119348-86f5268f2b44.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0093_photo-1604580119348-86f5268f2b44.jpg"
+    },
+    {
+      "name": "0094_photo-1682091327875-fc592ac6e02d.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0094_photo-1682091327875-fc592ac6e02d.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0094_photo-1682091327875-fc592ac6e02d.jpg"
+    },
+    {
+      "name": "0095_photo-1747697006653-569b3f418cf9.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0095_photo-1747697006653-569b3f418cf9.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0095_photo-1747697006653-569b3f418cf9.jpg"
+    },
+    {
+      "name": "0096_photo-1650980755954-aa13670370cd.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0096_photo-1650980755954-aa13670370cd.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0096_photo-1650980755954-aa13670370cd.jpg"
+    },
+    {
+      "name": "0097_photo-1718202248160-59558af70521.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0097_photo-1718202248160-59558af70521.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0097_photo-1718202248160-59558af70521.jpg"
+    },
+    {
+      "name": "0098_photo-1556139954-ec19cce61d61.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0098_photo-1556139954-ec19cce61d61.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0098_photo-1556139954-ec19cce61d61.jpg"
+    },
+    {
+      "name": "0099_photo-1660751708915-d279326dbc28.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0099_photo-1660751708915-d279326dbc28.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0099_photo-1660751708915-d279326dbc28.jpg"
+    },
+    {
+      "name": "0100_photo-1675283086310-4495a57ebe07.jpg",
+      "category": "nothing-red",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/nothing-red/vertical/0100_photo-1675283086310-4495a57ebe07.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/nothing-red/vertical/0100_photo-1675283086310-4495a57ebe07.jpg"
+    },
     {
       "name": "0001_photo-1687894986595-da703eb96375.jpg",
       "category": "amoled-fluid",

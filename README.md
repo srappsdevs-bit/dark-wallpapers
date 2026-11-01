@@ -1,10 +1,11 @@
-# Dark Wallpapers Collection 📱💻
+# Dark Wallpapers Collection 🌌
 
-High-quality 4K, AMOLED 3D Fluid, and Dark Abstract wallpapers collection.
+High-quality 4K, AMOLED 3D Fluid, Dark Abstract, and Nothing Red wallpapers collection.
 
 ## 📊 Summary
-- **Total Wallpapers:** 4635
+- **Total Wallpapers:** 4760
 - **Categories:**
+  - `nothing-red/` (Vertical 100 & Horizontal 25 - Dark Red Abstract Geometry)
   - `dark-abstract/` (Vertical & Horizontal)
   - `pixabay-4k/` (Vertical 4K Non-Human / Abstract)
   - `amoled-fluid/` (Vertical & Horizontal)
