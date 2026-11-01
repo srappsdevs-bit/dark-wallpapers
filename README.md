@@ -3,9 +3,9 @@
 High-quality 4K, AMOLED 3D Fluid, Dark Abstract, and Nothing Red wallpapers collection.
 
 ## 📊 Summary
-- **Total Wallpapers:** 4760
+- **Total Wallpapers:** 4689
 - **Categories:**
-  - `nothing-red/` (Vertical 100 & Horizontal 25 - Dark Red Abstract Geometry)
+  - `nothing-red/` (Vertical 33 & Horizontal 21 - Authentic Nothing Red Wallpapers)
   - `dark-abstract/` (Vertical & Horizontal)
   - `pixabay-4k/` (Vertical 4K Non-Human / Abstract)
   - `amoled-fluid/` (Vertical & Horizontal)
