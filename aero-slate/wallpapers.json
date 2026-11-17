@@ -1,0 +1,145 @@
+{
+  "total": 20,
+  "wallpapers": [
+    {
+      "name": "01_Ribbon_Dawn_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/01_Ribbon_Dawn_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/01_Ribbon_Dawn_2160x3840.png"
+    },
+    {
+      "name": "02_Alpine_Peak_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/02_Alpine_Peak_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/02_Alpine_Peak_2160x3840.png"
+    },
+    {
+      "name": "03_Orbit_Glass_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/03_Orbit_Glass_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/03_Orbit_Glass_2160x3840.png"
+    },
+    {
+      "name": "04_Slate_Dunes_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/04_Slate_Dunes_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/04_Slate_Dunes_2160x3840.png"
+    },
+    {
+      "name": "05_Glass_Sculpture_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/05_Glass_Sculpture_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/05_Glass_Sculpture_2160x3840.png"
+    },
+    {
+      "name": "06_Alpine_Lake_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/06_Alpine_Lake_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/06_Alpine_Lake_2160x3840.png"
+    },
+    {
+      "name": "07_Coral_Ribbons_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/07_Coral_Ribbons_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/07_Coral_Ribbons_2160x3840.png"
+    },
+    {
+      "name": "08_Misty_Mountains_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/08_Misty_Mountains_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/08_Misty_Mountains_2160x3840.png"
+    },
+    {
+      "name": "09_Hex_Geometry_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/09_Hex_Geometry_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/09_Hex_Geometry_2160x3840.png"
+    },
+    {
+      "name": "10_Aurora_Waves_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/10_Aurora_Waves_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/10_Aurora_Waves_2160x3840.png"
+    },
+    {
+      "name": "11_Liquid_Arcs_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/11_Liquid_Arcs_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/11_Liquid_Arcs_2160x3840.png"
+    },
+    {
+      "name": "12_Mirror_Lake_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/12_Mirror_Lake_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/12_Mirror_Lake_2160x3840.png"
+    },
+    {
+      "name": "13_Coral_Stone_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/13_Coral_Stone_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/13_Coral_Stone_2160x3840.png"
+    },
+    {
+      "name": "14_Glass_Sweep_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/14_Glass_Sweep_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/14_Glass_Sweep_2160x3840.png"
+    },
+    {
+      "name": "15_Orb_Glass_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/15_Orb_Glass_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/15_Orb_Glass_2160x3840.png"
+    },
+    {
+      "name": "16_Coral_Sea_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/16_Coral_Sea_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/16_Coral_Sea_2160x3840.png"
+    },
+    {
+      "name": "17_Crescent_Ribbons_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/17_Crescent_Ribbons_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/17_Crescent_Ribbons_2160x3840.png"
+    },
+    {
+      "name": "18_Blue_Dunes_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/18_Blue_Dunes_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/18_Blue_Dunes_2160x3840.png"
+    },
+    {
+      "name": "19_Coral_Clouds_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/19_Coral_Clouds_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/19_Coral_Clouds_2160x3840.png"
+    },
+    {
+      "name": "20_Glass_Panels_2160x3840.png",
+      "category": "aero-slate",
+      "orientation": "vertical",
+      "raw_url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/aero-slate/vertical/20_Glass_Panels_2160x3840.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/srappsdevs-bit/dark-wallpapers@main/aero-slate/vertical/20_Glass_Panels_2160x3840.png"
+    }
+  ]
+}
