@@ -1,0 +1,147 @@
+{
+  "collection": "Aero Slate \u2013 20 wallpaper crops",
+  "output_dimensions": "2160x3840 pixels (portrait 9:16)",
+  "source_note": "Each wallpaper was isolated from one panel of the two user-provided 5x2 contact sheets. The individual source panels are roughly 286\u2013299 x 484\u2013490 pixels. Outputs are high-resolution Lanczos upscales, not original native-4K renders; no missing detail can be recovered from the contact sheets.",
+  "files": [
+    {
+      "file": "01_Ribbon_Dawn_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "02_Alpine_Peak_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "03_Orbit_Glass_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "04_Slate_Dunes_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "05_Glass_Sculpture_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "06_Alpine_Lake_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "07_Coral_Ribbons_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "08_Misty_Mountains_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "09_Hex_Geometry_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "10_Aurora_Waves_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        272,
+        484
+      ]
+    },
+    {
+      "file": "11_Liquid_Arcs_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        273,
+        486
+      ]
+    },
+    {
+      "file": "12_Mirror_Lake_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        273,
+        486
+      ]
+    },
+    {
+      "file": "13_Coral_Stone_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        273,
+        486
+      ]
+    },
+    {
+      "file": "14_Glass_Sweep_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        273,
+        486
+      ]
+    },
+    {
+      "file": "15_Orb_Glass_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        273,
+        486
+      ]
+    },
+    {
+      "file": "16_Coral_Sea_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        276,
+        490
+      ]
+    },
+    {
+      "file": "17_Crescent_Ribbons_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        276,
+        490
+      ]
+    },
+    {
+      "file": "18_Blue_Dunes_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        276,
+        490
+      ]
+    },
+    {
+      "file": "19_Coral_Clouds_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        276,
+        490
+      ]
+    },
+    {
+      "file": "20_Glass_Panels_2160x3840.png",
+      "source_panel_size_before_upscale": [
+        276,
+        490
+      ]
+    }
+  ]
+}

@@ -3,8 +3,9 @@
 High-quality 4K, AMOLED 3D Fluid, Dark Abstract, and Nothing Red wallpapers collection.
 
 ## 📊 Summary
-- **Total Wallpapers:** 4689
+- **Total Wallpapers:** 4709
 - **Categories:**
+  - `aero-slate/` (Vertical 20 - Authentic 4K Aero Slate 3D Glass & Ribbon Wallpapers)
   - `nothing-red/` (Vertical 33 & Horizontal 21 - Authentic Nothing Red Wallpapers)
   - `dark-abstract/` (Vertical & Horizontal)
   - `pixabay-4k/` (Vertical 4K Non-Human / Abstract)
